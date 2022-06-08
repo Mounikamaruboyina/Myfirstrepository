@@ -1,1 +1,8 @@
 This is a demo file for branch creation through command line
+changing line from console
+Testing git confilcts so editing this text as devB
+This cahnge is done by DEVB
+This change done by devC
+
+Testing stashing operation
+
